@@ -1,0 +1,10 @@
+.info {
+  color: red;
+  font-size: 20px;
+}
+
+div {
+  width: 200px;
+  height: 100px;
+  border: 1px solid red;
+}
